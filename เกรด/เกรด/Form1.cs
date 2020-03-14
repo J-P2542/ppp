@@ -26,10 +26,5 @@ namespace เกรด
         {
 
         }
-
-        private void textBox13_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
