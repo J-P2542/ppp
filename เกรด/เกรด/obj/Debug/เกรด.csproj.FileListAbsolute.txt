@@ -1,0 +1,9 @@
+C:\Users\JP36\Documents\เกรด\เกรด\bin\Debug\เกรด.exe.config
+C:\Users\JP36\Documents\เกรด\เกรด\bin\Debug\เกรด.exe
+C:\Users\JP36\Documents\เกรด\เกรด\bin\Debug\เกรด.pdb
+C:\Users\JP36\Documents\เกรด\เกรด\obj\Debug\เกรด.csprojAssemblyReference.cache
+C:\Users\JP36\Documents\เกรด\เกรด\obj\Debug\เกรด.Properties.Resources.resources
+C:\Users\JP36\Documents\เกรด\เกรด\obj\Debug\เกรด.csproj.GenerateResource.cache
+C:\Users\JP36\Documents\เกรด\เกรด\obj\Debug\เกรด.exe
+C:\Users\JP36\Documents\เกรด\เกรด\obj\Debug\เกรด.pdb
+C:\Users\JP36\Documents\เกรด\เกรด\obj\Debug\เกรด.calculate.resources
