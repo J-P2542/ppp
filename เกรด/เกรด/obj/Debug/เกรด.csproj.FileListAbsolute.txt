@@ -16,3 +16,12 @@ C:\Users\PETE36\Documents\เกรด\เกรด\เกรด\obj\Debug\เ�
 C:\Users\PETE36\Documents\เกรด\เกรด\เกรด\obj\Debug\เกรด.csproj.GenerateResource.cache
 C:\Users\PETE36\Documents\เกรด\เกรด\เกรด\obj\Debug\เกรด.exe
 C:\Users\PETE36\Documents\เกรด\เกรด\เกรด\obj\Debug\เกรด.pdb
+C:\Users\PETE36\Source\Repos\J-P2542\ppp\เกรด\เกรด\bin\Debug\เกรด.exe.config
+C:\Users\PETE36\Source\Repos\J-P2542\ppp\เกรด\เกรด\bin\Debug\เกรด.exe
+C:\Users\PETE36\Source\Repos\J-P2542\ppp\เกรด\เกรด\bin\Debug\เกรด.pdb
+C:\Users\PETE36\Source\Repos\J-P2542\ppp\เกรด\เกรด\obj\Debug\เกรด.csprojAssemblyReference.cache
+C:\Users\PETE36\Source\Repos\J-P2542\ppp\เกรด\เกรด\obj\Debug\เกรด.calculate.resources
+C:\Users\PETE36\Source\Repos\J-P2542\ppp\เกรด\เกรด\obj\Debug\เกรด.Properties.Resources.resources
+C:\Users\PETE36\Source\Repos\J-P2542\ppp\เกรด\เกรด\obj\Debug\เกรด.csproj.GenerateResource.cache
+C:\Users\PETE36\Source\Repos\J-P2542\ppp\เกรด\เกรด\obj\Debug\เกรด.exe
+C:\Users\PETE36\Source\Repos\J-P2542\ppp\เกรด\เกรด\obj\Debug\เกรด.pdb
